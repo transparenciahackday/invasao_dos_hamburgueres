@@ -25,13 +25,16 @@ hr {
   margin: auto;
 }
 div{
-  max-width: 62.5rem;
+  max-width: 60rem;
   margin: 40px auto;
 
 }
 
 p{
 line-height: 1em;
+}
+p.text{
+  line-height: 2em;
 }
 
 a{
